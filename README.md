@@ -32,22 +32,22 @@ This project allows users to browse medicines, add products to cart, book lab te
 # 📸 Screenshots
 
 ## 🏠 Home Page
-![Home](./Home.png)
+![Home](./screenshots/home.png)
 
 ## 💊 Medicines Page
-![Medicines](./Medicines.png)
+![Medicines](./screenshots/medicines.png)
 
 ## 🛒 Cart Page
-![Cart](./Your%20Cart.png)
+![Cart](./screenshots/your-cart.png)
 
 ## 🧪 Lab Tests
-![Lab Tests](./Lab%20Test.png)
+![Lab Tests](./screenshots/lab-test.png)
 
 ## 📋 Test Booking Form
-![Booking](./Book%20Test.png)
+![Booking](./screenshots/book-test.png)
 
 ## 📦 Orders Page
-![Orders](./My%20Order.png)
+![Orders](./screenshots/my-order.png)
 
 ---
 
